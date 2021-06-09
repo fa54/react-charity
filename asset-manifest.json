@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/react-charity/static/js/main.44921d9f.chunk.js",
+    "main.js.map": "/react-charity/static/js/main.44921d9f.chunk.js.map",
+    "runtime-main.js": "/react-charity/static/js/runtime-main.0e980a6b.js",
+    "runtime-main.js.map": "/react-charity/static/js/runtime-main.0e980a6b.js.map",
+    "static/js/2.56ce7ce7.chunk.js": "/react-charity/static/js/2.56ce7ce7.chunk.js",
+    "static/js/2.56ce7ce7.chunk.js.map": "/react-charity/static/js/2.56ce7ce7.chunk.js.map",
+    "index.html": "/react-charity/index.html",
+    "static/js/2.56ce7ce7.chunk.js.LICENSE.txt": "/react-charity/static/js/2.56ce7ce7.chunk.js.LICENSE.txt",
+    "static/media/balloon.83a4e995.svg": "/react-charity/static/media/balloon.83a4e995.svg",
+    "static/media/charity-slide-01-copyright.7acf1683.jpg": "/react-charity/static/media/charity-slide-01-copyright.7acf1683.jpg",
+    "static/media/charity-slide-02-copyright.54a1c59f.jpg": "/react-charity/static/media/charity-slide-02-copyright.54a1c59f.jpg",
+    "static/media/charity-slide-03-copyright.5570c170.jpg": "/react-charity/static/media/charity-slide-03-copyright.5570c170.jpg",
+    "static/media/dove.f0157691.svg": "/react-charity/static/media/dove.f0157691.svg",
+    "static/media/footer-bg-copyright.6ec95cc7.jpg": "/react-charity/static/media/footer-bg-copyright.6ec95cc7.jpg",
+    "static/media/image-1-rtv-copyright.6d9d72d1.jpg": "/react-charity/static/media/image-1-rtv-copyright.6d9d72d1.jpg",
+    "static/media/image-2-rtv-copyright.8c7bfe55.jpg": "/react-charity/static/media/image-2-rtv-copyright.8c7bfe55.jpg",
+    "static/media/image-3-rtv-copyright.980435fa.jpg": "/react-charity/static/media/image-3-rtv-copyright.980435fa.jpg",
+    "static/media/image-4-rtv-copyright-1024x683.88a95046.jpg": "/react-charity/static/media/image-4-rtv-copyright-1024x683.88a95046.jpg",
+    "static/media/image-5-rtv-copyright-1024x683.088d8127.jpg": "/react-charity/static/media/image-5-rtv-copyright-1024x683.088d8127.jpg",
+    "static/media/image-6-rtv-copyright-1024x683.5b60b0eb.jpg": "/react-charity/static/media/image-6-rtv-copyright-1024x683.5b60b0eb.jpg",
+    "static/media/receive.f2d732ee.svg": "/react-charity/static/media/receive.f2d732ee.svg",
+    "static/media/red-ribbon.87d9792a.svg": "/react-charity/static/media/red-ribbon.87d9792a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e980a6b.js",
+    "static/js/2.56ce7ce7.chunk.js",
+    "static/js/main.44921d9f.chunk.js"
+  ]
+}
