@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  font-family: "Europa";
+}
+body {
+  font-family: "Europa";
+  margin: 0;
+}
+
+.carousel-indicators button.active {
+  background-color: #eb371a !important;
+  border: 1px solid red !important;
+}
